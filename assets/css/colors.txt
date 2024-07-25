@@ -1,0 +1,7 @@
+primary : #0774bb
+
+light   : #585479
+
+dark    :  #28243a
+
+White   : #ededee
